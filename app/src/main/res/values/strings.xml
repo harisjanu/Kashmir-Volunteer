@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kashmir Volunteer</string>
+    <string name="website">www.kashmirvolunteers.com</string>
+    <string name="welcome">Volunteer for Kashmir is formed to show strength and solidarity with Kashmiris in occupied Kashmir and stand against actions taken by Modi government and its Bharatiya Janata Party (BJP). The registered people with us are the ambassadors of peace and shows solidarity with innocent Kashmiri’s Infront of entire world.</string>
+    <string name="cause">Volunteer for Kashmir is formed to show strength and solidarity with Kashmiris in occupied Kashmir and stand against actions taken by Modi government and its Bharatiya Janata Party (BJP). The registered people with us are the ambassadors of peace and shows solidarity with innocent Kashmiri’s Infront of entire world. The Pakistani volunteers who are registered will show a “strong message” of solidarity with Kashmiris. We want all Pakistani brothers and sisters belonging to any ethnicity come and register as volunteer and show your stand against Indian fascist oppression, the inhumane attitude towards the innocent Kashmiri civilians and 24-day curfew, the daily injuring and killing of Kashmiri civilians, including women children. The registered volunteers are declined the ethnic cleansing agenda of the Modi government and its illegal annexation of Indian occupied Kashmir</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_city">City</string>
+    <string name="hint_zipcode">Zipcode</string>
+    <string name="hint_phoneno">Phone No</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_hearaboutus">Hear About Us</string>
+    <string name="hint_preferredarea">Preferred Area</string>
+    <string name="hint_specialmessage">Special message</string>
+    <string name="btn_register">Volunteer Register</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_total">Total Volunteers</string>
+    <string name="name">Fullname</string>
+    <string name="thanks">Thank you for registering as a Volunteer with us.</string>
+    <string name="thanks1">Our team will contact you shortly.</string>
+
+    <string name="ad_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_id_banner">ca-app-pub-9709126979844778/4918435981</string>
+
+</resources>
